@@ -1,5 +1,16 @@
+h1 {
+  color: #d10707;
+  font-size: 45px;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: beige;
+  text-shadow: 2px 2px 3px #201a1a;
+}
 .l1 {
-  color: #000;
+  color: #f12222;
   font-size: 15px;
   font-weight: bold;
   margin: 0;
