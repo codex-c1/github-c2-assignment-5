@@ -1,0 +1,55 @@
+html {
+  background-color: rgb(4, 3, 56);
+}
+
+body {
+  font-size: 62.5%;
+  color: rgb(199, 206, 212);
+}
+
+.h {
+  display: flex;
+  justify-content: space-between;
+}
+
+.hh1 {
+  font-size: 3rem;
+  margin-left: 10px;
+  margin-bottom: 0px;
+}
+
+.ht {
+  font-size: 1.3rem;
+  margin-left: 50px;
+  font-style: italic;
+  margin-top: 5px;
+}
+
+.nav1 {
+  margin-top: 20px;
+}
+
+.navlist {
+  display: flex;
+  gap: 20px;
+  font-size: 1.5rem;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(225, 240, 240);
+}
+
+a:hover {
+  text-decoration: underline 1px rgb(199, 199, 199);
+  font-weight: 550;
+}
+
+.hh2 {
+  margin-left: 20px;
+  font-size: 2rem;
+}
